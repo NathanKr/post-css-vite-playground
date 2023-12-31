@@ -11,8 +11,16 @@ pnpm i
 
 <h2>Usage</h2>
 
+View the page
+
 ```
 npm run dev
+```
+
+create build version
+
+```
+npm run build
 ```
 
 
