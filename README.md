@@ -29,3 +29,7 @@ npm run build
 <li> There is no need to use nanocss explicitly because vite minimizes the CSS out of the box. simply do 'npm run build' and look inside the dist/assets directory</li>
 <li> No need to use postcss-preset-env explicitly to translate nesting to format known to the old browser. do 'npm run build' and look inside the dist/assets directory</li>
 </ul>
+
+
+<h2>More info</h2>
+https://nathankrasney.com/posts/what-is-postcss
